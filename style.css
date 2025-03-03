@@ -220,4 +220,7 @@ p{
   .container__game__btn{
     margin: 20px;
   }
+  .status{
+    margin: 50px auto;
+  }
 }
