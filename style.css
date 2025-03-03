@@ -220,8 +220,7 @@ p{
   .container__game__btn{
     margin: 20px;
   }
-
   h3{
-    margin: 100px;
+    bottom: 10%;
   }
 }
