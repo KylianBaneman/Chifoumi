@@ -190,6 +190,7 @@ p{
   margin: 40px auto;
   cursor: pointer;
   transition : opacity 0.4s ease-out , transform 0.4s ease-out ;
+  min-width: 150px;
 }
 
 .divBtnSelectClassique button.active{
@@ -212,5 +213,11 @@ p{
   }
   .ptsOrdi{
     left: 32px;
+  }
+  .container__btnGame{
+    padding: 15px;
+  }
+  .container__game__btn{
+    margin: 20px;
   }
 }
