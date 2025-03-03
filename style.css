@@ -224,4 +224,7 @@ p{
     bottom: 10%;
     text-align: center;
   }
+  h2{
+    max-width: 300px;
+  }
 }
